@@ -25,8 +25,6 @@ Me chamo Bianca Chiquinelli, tenho 18 anos
 <a href="https://www.linkedin.com/in/bianca-chiquinelli-186004253/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![GitHub Snake](https://raw.githubusercontent.com/chiquinelli-bia/chiquinelli-bia/output/dist/github-snake.gif)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chiquinelli-bia/chiquinelli-bia/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chiquinelli-bia/chiquinelli-bia/output/github-snake.svg" />
